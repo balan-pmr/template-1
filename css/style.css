@@ -1071,7 +1071,8 @@ form label {
   }
 }
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
+  /*font-family: "Sacramento", Arial, serif;*/
+  font-family: "Great Vibes", Arial, serif;
   color: #F14E95;
   font-size: 30px;
 }
@@ -1188,7 +1189,8 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   /**color: #F14E95;**/
-  color:blueviolet;
+  /*color:blueviolet;*/
+  color:#252525;
    /*font-family: "Sacramento", Arial, serif;**/
    font-family: "Great Vibes", Arial, serif;
 }
